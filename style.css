@@ -352,6 +352,13 @@ input[type="button" i] {
     .nav-list {
         display: none;
     }
+    .left{
+        text-align: center;
+    }
+    .right{
+        display: flex;
+        justify-content: center;
+    }
     .right-section h1 {
         font-size: 2rem;
         line-height: 2.4rem;
@@ -412,6 +419,13 @@ input[type="button" i] {
     }
     p{
         font-size: 13px;
+    }
+    .left{
+        text-align: center;
+    }
+    .right{
+        display: flex;
+        justify-content: center;
     }
     .right-section h1 {
         font-size: 2rem;
